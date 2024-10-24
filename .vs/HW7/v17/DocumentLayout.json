@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr. X\\source\\repos\\HW7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\\u064Fshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\\u064Fshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\shoppingcartmerchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\shoppingcartmerchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|c:\\users\\mr. x\\source\\repos\\hw7\\hw7\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC960540-1178-4024-B60D-9BF615A5BCDA}|HW7\\HW7.csproj|solutionrelative:hw7\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\User.cs",
+              "RelativeDocumentMoniker": "HW7\\User.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\User.cs",
+              "RelativeToolTip": "HW7\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:24:18.654Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingcartMerchandise.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\ShoppingcartMerchandise.cs",
+              "RelativeDocumentMoniker": "HW7\\ShoppingcartMerchandise.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\ShoppingcartMerchandise.cs",
+              "RelativeToolTip": "HW7\\ShoppingcartMerchandise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:23:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Order.cs",
+              "RelativeDocumentMoniker": "HW7\\Order.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Order.cs",
+              "RelativeToolTip": "HW7\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:47:52.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\AdminService.cs",
+              "RelativeDocumentMoniker": "HW7\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\AdminService.cs",
+              "RelativeToolTip": "HW7\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:37:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u064FShoppingcart.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\\u064FShoppingcart.cs",
+              "RelativeDocumentMoniker": "HW7\\\u064FShoppingcart.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\\u064FShoppingcart.cs",
+              "RelativeToolTip": "HW7\\\u064FShoppingcart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:10:57.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Storeservice.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Storeservice.cs",
+              "RelativeDocumentMoniker": "HW7\\Storeservice.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Storeservice.cs",
+              "RelativeToolTip": "HW7\\Storeservice.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:12:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Userservice.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Userservice.cs",
+              "RelativeDocumentMoniker": "HW7\\Userservice.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Userservice.cs",
+              "RelativeToolTip": "HW7\\Userservice.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:44:15.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Admin.cs",
+              "RelativeDocumentMoniker": "HW7\\Admin.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Admin.cs",
+              "RelativeToolTip": "HW7\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:35:06.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Storage.cs",
+              "RelativeDocumentMoniker": "HW7\\Storage.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Storage.cs",
+              "RelativeToolTip": "HW7\\Storage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:33:54.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Merchandise.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Merchandise.cs",
+              "RelativeDocumentMoniker": "HW7\\Merchandise.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Merchandise.cs",
+              "RelativeToolTip": "HW7\\Merchandise.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:29:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Program.cs",
+              "RelativeDocumentMoniker": "HW7\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr. X\\source\\repos\\HW7\\HW7\\Program.cs",
+              "RelativeToolTip": "HW7\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:23:34.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
